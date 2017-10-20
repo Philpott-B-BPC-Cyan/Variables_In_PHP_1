@@ -3,20 +3,16 @@
 <Body>
 
 <?php
+  $myfirst-"Hello world of course!";
+  $firstNum=6;$FirstFloat=12.5;
+  .
+  echo$myfirst;
+  echo"<br>";
+  echo$firstNum;
+  echo"<br>";
+  echo$FirstFloat;
+ ?>
 
-$myText1="Good Morning Campers";
-$myText2="Suits you sir";
-
-
-
-echo "The first string is:   ";
-echo $myText1;
-echo "'<br/><br/>'";
-echo "The second string is:  ";
-echo $myText2;
-echo "'<br/><br/>'";
-
-?>
 
 </Body>
 
